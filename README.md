@@ -1,27 +1,26 @@
-# ProjetoLoginFront
+# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) LoginAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
+https://github.com/frissoigor/LoginComAngular
 
-## Development server
+# Sobre o projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Tela de Login construída durante estudos utilizando:
+<br>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
-## Code scaffolding
+A tela teve como inspiração a tela de Login do Sistema utilizado na organização em que trabalho atualmente.
+<br>
+Link da Inspiração: https://gpi01.cloud.el.com.br/ServerExec/acessoBase/
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Layout Web
+![Web 1](https://github.com/frissoigor/assets/blob/main/tela-login.png)
 
-## Build
+# Tecnologias utilizadas
+- Angular
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+# Autor
 
-## Running unit tests
+Igor Frisso Silva
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+https://www.linkedin.com/in/igorfrisso/
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
